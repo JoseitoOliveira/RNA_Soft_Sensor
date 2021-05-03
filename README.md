@@ -1,7 +1,4 @@
-# RNA_Soft_Sensor
-Propostas de modelos de Soft Sensors aplicados na medição de vazão em uma industria sucroalcooleira.
-
-## Conclusão
+## Propostas de modelos de Soft Sensors aplicados na medição de vazão em uma industria sucroalcooleira.
 Nesse trabalho foram propostos 3 modelos de soft sensros baseados em redes neurais artificiais profundas para medição de vazão em uma industria sucroalcooleira, os dados foram tratados, normalizados e divididos.
 
 O primeiro modelo apresentou desempenho satisfatório, porem com alto ruído e uma incerteza considerável.O segundo modelo apresentou o melhor desempenho mas utiliza uma amostras amostras anteriores dos sinais incluindo a medição da vazão anterior, o que faz necessário a existência de um sensor e os problemas apresentados na seção 1 não são resolvidos.
